@@ -14,6 +14,7 @@ struct stRoundInfo
 	enWinner RoundWinner;
 	string WinnerName = "";
 };
+
 struct stGameResults
 {
 	short GameRounds = 0;
